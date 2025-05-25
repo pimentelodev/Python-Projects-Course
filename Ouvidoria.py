@@ -1,11 +1,4 @@
-"""
--GRUPO BESOURO VERMELHO-
-Naytson Pimentel da Silva
-Edson Pedro da Rocha Silva
-Eddie Yago Gabriel dos Santos Sátiro
-Franco Alves Silva
-Guilherme Natã Meirelles Jung
-"""
+
 
 condicao = 0
 
